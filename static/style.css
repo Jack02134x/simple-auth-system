@@ -1,0 +1,10 @@
+.login {
+    display: flex;
+    text-align: center;
+    align-items: top;
+    background-color: red;
+    height: 500px;
+    width: 500px;
+    padding-top: 20px;
+    padding-left: 500px;
+}
