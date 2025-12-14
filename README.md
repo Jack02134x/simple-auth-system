@@ -122,7 +122,7 @@ http://127.0.0.1:5000/
 * Register a new user
 * Attempt duplicate registration
 * Login with correct and incorrect credentials
-* Access protected route without login
+* Access protected route without login  <----(Dosen't work right now)
 * Logout and verify session invalidation
 
 ---
